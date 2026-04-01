@@ -76,7 +76,7 @@
     19. [hello-world 실행, 컨테이너: 실행/중지/목록 확인](./images/docekr_helloworld.png)
     20. [컨테이너 종료/유지(attach/exec 등)의 차이 정리]
     21. [웹 서버 베이스 이미지 활용(NGINX) + 정적 콘텐츠/설정만 교체]
-    22. [내가 적용한 커스텀 포인트 각각의 목적(간단 요약)](./images/docekrfile.png)
+    22. [내가 적용한 커스텀 포인트 각각의 목적(간단 요약)](./images/dockerfile.png)
     23. [빌드/실행 명령 + 핵심 결과](./images/docker_build.png)
     24. [빌드/실행 명령 + 핵심 결과2](./images/run_mynginx.png)
     25. [빌드/실행 명령 + 핵심 결과3](./images/change_static_content_and_port.png)
