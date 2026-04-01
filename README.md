@@ -71,7 +71,7 @@
     14. [Docker 데몬 동작 여부 확인 결과](./images/docker_info.png)
     15. [이미지 다운로드 목록 확인](./images/docker_image.png)
     16. [컨테이너: 실행/중지/목록 확인](./images/docker_ps.png)
-    17. [운영: 로그 확인, 리소스 확인 ](./images/docker_logs.png)
+    17. [운영: 로그 확인](./images/docker_logs.png)
     18. [운영: 리소스 확인 ](./images/docker_stats.png)
     19. [hello-world 실행, 컨테이너: 실행/중지/목록 확인](./images/docekr_helloworld.png)
     20. [컨테이너 종료/유지(attach/exec 등)의 차이 정리]
