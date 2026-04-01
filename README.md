@@ -55,7 +55,26 @@
 
 3. 수행로그
    
-   1.[현재위치확인](./images/pwd.png)
+    1. [현재위치확인](./images/pwd.png)
+    2. [목록확인](.images/ls.png)
+    3. [이동](.images/cd.png)
+    4. [생성](.images/mkdir.png)
+    5. [복사](.images/copy.png)
+    6. [이동](.images/mv.png)
+    7. [이름변경](.images/,v2.png)
+    8. [삭제](.images/rm.png)
+    9. [파일 내용 확인](.images/cat.png)
+    10. [빈 파일 생성](.images/echocat.png)
+    11. [권환 확인](.images/lsal.png)
+    12. [권한 변경(전/후 비교)](.images/chmod.png)
+    13. []
+    14. []
+    15. []
+    16. 
+       
+
+
+    
 
 
 
