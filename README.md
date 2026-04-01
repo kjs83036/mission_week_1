@@ -61,7 +61,7 @@
     4. [생성](./images/mkdir.png)
     5. [복사](./images/copy.png)
     6. [이동](./images/mv.png)
-    7. [이름변경](./images/,v2.png)
+    7. [이름변경](./images/mv2.png)
     8. [삭제](./images/rm.png)
     9. [파일 내용 확인](./images/cat.png)
     10. [빈 파일 생성](./images/echocat.png)
