@@ -21,27 +21,27 @@
         - [x] 권한 변경(전/후 비교)
 
     5. Docker 설치 및 기본점검
-        - [ ] Docker 버전 확인 결과 기록(docker --version)
-        - [ ] Docker 데몬 동작 여부 확인 결과(docker info)
+        - [x] Docker 버전 확인 결과 기록(docker --version)
+        - [x] Docker 데몬 동작 여부 확인 결과(docker info)
 
     7. Docker 기본운영 명령 수행
-        - [ ] 이미지 다운로드 목록 확인 (docker images)
-        - [ ] 컨테이너: 실행/중지/목록 확인 (예: docker ps, docker ps -a)
-        - [ ] 운영: 로그 확인 (예: docker logs), 리소스 확인 (예: docker stats)
+        - [x] 이미지 다운로드 목록 확인 (docker images)
+        - [x] 컨테이너: 실행/중지/목록 확인 (예: docker ps, docker ps -a)
+        - [x] 운영: 로그 확인 (예: docker logs), 리소스 확인 (예: docker stats)
 
     9. 컨테이너 실습
-        - [ ] hello-world 실행
-        - [ ] ubuntu 컨테이너를 실행하고 내부 진입 후 간단 명령(예: ls, echo) 수행 
+        - [x] hello-world 실행
+        - [x] ubuntu 컨테이너를 실행하고 내부 진입 후 간단 명령(예: ls, echo) 수행 
         - [ ] 컨테이너 종료/유지(attach/exec 등)의 차이 정리
 
     11. 기존 Dockerfile 기반 커스텀 이미지 제작
-        - [ ] 웹 서버 베이스 이미지 활용(NGINX) + 정적 콘텐츠/설정만 교체
-        - [ ] 어떤 “기존 베이스(이미지/예시 Dockerfile)”를 선택했는지
-        - [ ] 내가 적용한 커스텀 포인트 각각의 목적(간단 요약)
-        - [ ] 빌드/실행 명령 + 핵심 결과(출력/스크린샷)
+        - [x] 웹 서버 베이스 이미지 활용(NGINX) + 정적 콘텐츠/설정만 교체
+        - [x] 어떤 “기존 베이스(이미지/예시 Dockerfile)”를 선택했는지
+        - [x] 내가 적용한 커스텀 포인트 각각의 목적(간단 요약)
+        - [x] 빌드/실행 명령 + 핵심 결과(출력/스크린샷)
 
     13. 포트 매핑 및 접속 증거
-        - [ ] 브라우저 접속 화면(또는 curl 응답)첨부
+        - [x] 브라우저 접속 화면(또는 curl 응답)첨부
 
     15. Docker 볼륨 영속성 검증
         - [ ] Docker 볼륨을 생성하고 컨테이너에 연결
