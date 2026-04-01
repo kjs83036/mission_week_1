@@ -67,10 +67,26 @@
     10. [빈 파일 생성](./images/echocat.png)
     11. [권환 확인](./images/lsal.png)
     12. [권한 변경(전/후 비교)](./images/chmod.png)
-    13. []
-    14. []
-    15. []
-    16. 
+    13. [Docker 버전 확인 결과 기록](./images/docker_version.png)
+    14. [Docker 데몬 동작 여부 확인 결과](./images/docker_info.png)
+    15. [이미지 다운로드 목록 확인](./images/docker_image.png)
+    16. [컨테이너: 실행/중지/목록 확인](./images/docker_ps.png)
+    17. [운영: 로그 확인, 리소스 확인 ](./images/docker_logs.png)
+    18. [운영: 리소스 확인 ](./images/docker_stats.png)
+    19. [hello-world 실행, 컨테이너: 실행/중지/목록 확인](./images/docekr_helloworld.png)
+    20. [컨테이너 종료/유지(attach/exec 등)의 차이 정리]
+    21. [웹 서버 베이스 이미지 활용(NGINX) + 정적 콘텐츠/설정만 교체]
+    22. [내가 적용한 커스텀 포인트 각각의 목적(간단 요약)](./images/docekrfile.png)
+    23. [빌드/실행 명령 + 핵심 결과](./images/docker_build,ong)
+    24. [빌드/실행 명령 + 핵심 결과2](./images/run_mynginx.ong)
+    25. [빌드/실행 명령 + 핵심 결과3](./images/change_static_content_and_port.ong)
+    26. [빌드/실행 명령 + 핵심 결과4](./images/originhome.ong)
+
+        
+    27. [](./images/,ong)
+    28. []
+    29. []
+    30. [브라우저 접속 화면](./images/.png)
        
 
 
