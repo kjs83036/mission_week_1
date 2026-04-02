@@ -3,7 +3,12 @@
 ## AI/SW 개발 워크스테이션 구축
 
 1. 실행환경
-2. 수행 체크리스트
+   - OS : macOS Tahoe 26.0.1
+   - shell : zsh 5.9
+   - docker: 28.5
+   - git: 2.5
+     
+3. 수행 체크리스트
 
     1. 터미널 조작
     	- [x] 현재 위치 확인
@@ -53,7 +58,7 @@
         - [ ] GitHub 로그인 및 저장소 연동을 완료하고, 연동 증거(스크린샷 등)를 첨부한
 
 
-3. 수행로그
+4. 수행로그
    
     1. 현재위치확인![현재위치확인](./images/pwd.png)
     2. 목록확인![목록확인](./images/ls.png)
@@ -74,7 +79,7 @@
     17. 운영: 로그 확인(부분)![운영: 로그 확인](./images/docker_logs.png)
     18. 운영: 리소스 확인![운영: 리소스 확인 ](./images/docker_stats.png)
     19. hello-world 실행, 컨테이너: 실행/중지/목록 확인![hello-world 실행, 컨테이너: 실행/중지/목록 확인](./images/docker_helloworld.png)
-    20. 컨테이너 종료/유지(attach/exec 등)의 차이 정리![컨테이너 종료/유지(attach/exec 등)의 차이 정리](./images/dockere_attach_exec.png)
+    20. 컨테이너 종료/유지(attach/exec 등)의 차이 정리![컨테이너 종료/유지(attach/exec 등)의 차이 정리](./images/docker_attach_exec.png)
     22. 웹 서버 베이스 이미지 활용(NGINX) + 정적 콘텐츠 교체
     23. 내가 적용한 커스텀 포인트 각각의 목적(간단 요약)![내가 적용한 커스텀 포인트 각각의 목적(간단 요약)](./images/dockerfile.png)
     24. 빌드/실행 명령 + 핵심 결과![빌드/실행 명령 + 핵심 결과](./images/docker_build.png)
