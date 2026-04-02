@@ -32,7 +32,7 @@
     9. 컨테이너 실습
         - [x] hello-world 실행
         - [x] ubuntu 컨테이너를 실행하고 내부 진입 후 간단 명령(예: ls, echo) 수행 
-        - [ ] 컨테이너 종료/유지(attach/exec 등)의 차이 정리
+        - [x] 컨테이너 종료/유지(attach/exec 등)의 차이 정리
 
     11. 기존 Dockerfile 기반 커스텀 이미지 제작
         - [x] 웹 서버 베이스 이미지 활용(NGINX) + 정적 콘텐츠/설정만 교체
@@ -44,9 +44,9 @@
         - [x] 브라우저 접속 화면(또는 curl 응답)첨부
 
     15. Docker 볼륨 영속성 검증
-        - [ ] Docker 볼륨을 생성하고 컨테이너에 연결
-        - [ ] 컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명
-        - [ ] 기술 문서에 생성/연결/검증 절차(명령+출력)를 포함
+        - [x] Docker 볼륨을 생성하고 컨테이너에 연결
+        - [x] 컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명
+        - [x] 기술 문서에 생성/연결/검증 절차(명령+출력)를 포함
 
     17. 2.9 Git 설정 및 Github 연동
         - [ ] Git 사용자 정보/기본 브랜치 설정을 완료하고 git config --list 결과를 기록
@@ -74,20 +74,20 @@
     17. 운영: 로그 확인(부분)![운영: 로그 확인](./images/docker_logs.png)
     18. 운영: 리소스 확인![운영: 리소스 확인 ](./images/docker_stats.png)
     19. hello-world 실행, 컨테이너: 실행/중지/목록 확인![hello-world 실행, 컨테이너: 실행/중지/목록 확인](./images/docker_helloworld.png)
-    20. 컨테이너 종료/유지(attach/exec 등)의 차이 정리
-    21. 웹 서버 베이스 이미지 활용(NGINX) + 정적 콘텐츠 교체
-    22. 내가 적용한 커스텀 포인트 각각의 목적(간단 요약)![내가 적용한 커스텀 포인트 각각의 목적(간단 요약)](./images/dockerfile.png)
-    23. 빌드/실행 명령 + 핵심 결과![빌드/실행 명령 + 핵심 결과](./images/docker_build.png)
-    24. 빌드/실행 명령 + 핵심 결과2![빌드/실행 명령 + 핵심 결과2](./images/run_mynginx.png)
-    25. 빌드/실행 명령 + 핵심 결과3![빌드/실행 명령 + 핵심 결과3](./images/change_static_content_and_port.png)
-    26. 브라우저 접속 화면]![브라우저 접속 화면](./images/originhome.png)
-    27. Docker 볼륨을 생성![Docker 볼륨을 생성](./images/docker_volume_create.png)
-    28. Docker 볼륨을 컨테이너에 연결![Docker 볼륨 컨테이너에 연결](./images/dockr_volume_container_connect.png)
-    29. 컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명![컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명](./images/docker_volume_before_change.png)
-    30. 컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명![컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명](./images/docker_volume_after_change.png)
-    31. 컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명![컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명](./images/docker_volume_disconnect.png)
-    32. 컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명![컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명](./images/docker_volume_reconnect.png)
-    33. 기술 문서에 생성/연결/검증 절차(명령+출력)를 포함![기술 문서에 생성/연결/검증 절차(명령+출력)를 포함](./images/docker_volume_chang_log.png)
+    20. 컨테이너 종료/유지(attach/exec 등)의 차이 정리![컨테이너 종료/유지(attach/exec 등)의 차이 정리](./images/dockere_attach_exec.png)
+    22. 웹 서버 베이스 이미지 활용(NGINX) + 정적 콘텐츠 교체
+    23. 내가 적용한 커스텀 포인트 각각의 목적(간단 요약)![내가 적용한 커스텀 포인트 각각의 목적(간단 요약)](./images/dockerfile.png)
+    24. 빌드/실행 명령 + 핵심 결과![빌드/실행 명령 + 핵심 결과](./images/docker_build.png)
+    25. 빌드/실행 명령 + 핵심 결과2![빌드/실행 명령 + 핵심 결과2](./images/run_mynginx.png)
+    26. 빌드/실행 명령 + 핵심 결과3![빌드/실행 명령 + 핵심 결과3](./images/change_static_content_and_port.png)
+    27. 브라우저 접속 화면]![브라우저 접속 화면](./images/originhome.png)
+    28. Docker 볼륨을 생성![Docker 볼륨을 생성](./images/docker_volume_create.png)
+    29. Docker 볼륨을 컨테이너에 연결![Docker 볼륨 컨테이너에 연결](./images/dockr_volume_container_connect.png)
+    30. 컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명![컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명](./images/docker_volume_before_change.png)
+    31. 컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명![컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명](./images/docker_volume_after_change.png)
+    32. 컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명![컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명](./images/docker_volume_disconnect.png)
+    33. 컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명![컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명](./images/docker_volume_reconnect.png)
+    34. 기술 문서에 생성/연결/검증 절차(명령+출력)를 포함![기술 문서에 생성/연결/검증 절차(명령+출력)를 포함](./images/docker_volume_chang_log.png)
     35. ![](./images/.png)
     36. ![](./images/.png)
 
