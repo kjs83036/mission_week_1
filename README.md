@@ -81,11 +81,15 @@
     24. 빌드/실행 명령 + 핵심 결과2![빌드/실행 명령 + 핵심 결과2](./images/run_mynginx.png)
     25. 빌드/실행 명령 + 핵심 결과3![빌드/실행 명령 + 핵심 결과3](./images/change_static_content_and_port.png)
     26. 브라우저 접속 화면]![브라우저 접속 화면](./images/originhome.png)
-
-        
-    27. [](./images/,ong)
-    28. []
-    29. []
+    27. Docker 볼륨을 생성![Docker 볼륨을 생성](./images/docker_volume_create.png)
+    28. Docker 볼륨을 컨테이너에 연결![Docker 볼륨 컨테이너에 연결](./images/dockr_volume_container_connect.png)
+    29. 컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명![컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명](./images/docker_volume_before_change.png)
+    30. 컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명![컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명](./images/docker_volume_after_change.png)
+    31. 컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명![컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명](./images/docker_volume_disconnect.png)
+    32. 컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명![컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명](./images/docker_volume_reconnect.png)
+    33. 기술 문서에 생성/연결/검증 절차(명령+출력)를 포함![기술 문서에 생성/연결/검증 절차(명령+출력)를 포함](./images/docker_volume_chang_log.png)
+    35. ![](./images/.png)
+    36. ![](./images/.png)
 
        
 
