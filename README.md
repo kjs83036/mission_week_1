@@ -55,7 +55,7 @@
 
 3. 수행로그
    
-    1. ![현재위치확인](./images/pwd.png)
+    1. 현재위치확인![현재위치확인](./images/pwd.png)
     2. [목록확인](./images/ls.png)
     3. [이동](./images/cd.png)
     4. [생성](./images/mkdir.png)
