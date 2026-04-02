@@ -73,7 +73,7 @@
     16. 컨테이너: 실행/중지/목록 확인]![컨테이너: 실행/중지/목록 확인](./images/docker_ps.png)
     17. 운영: 로그 확인(부분)![운영: 로그 확인](./images/docker_logs.png)
     18. 운영: 리소스 확인![운영: 리소스 확인 ](./images/docker_stats.png)
-    19. hello-world 실행, 컨테이너: 실행/중지/목록 확인![hello-world 실행, 컨테이너: 실행/중지/목록 확인](./images/docekr_helloworld.png)
+    19. hello-world 실행, 컨테이너: 실행/중지/목록 확인![hello-world 실행, 컨테이너: 실행/중지/목록 확인](./images/docker_helloworld.png)
     20. 컨테이너 종료/유지(attach/exec 등)의 차이 정리
     21. 웹 서버 베이스 이미지 활용(NGINX) + 정적 콘텐츠 교체
     22. 내가 적용한 커스텀 포인트 각각의 목적(간단 요약)![내가 적용한 커스텀 포인트 각각의 목적(간단 요약)](./images/dockerfile.png)
