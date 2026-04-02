@@ -68,14 +68,14 @@
     11. 권환 확인![권환 확인](./images/lsal.png)
     12. 권한 변경(전/후 비교)![권한 변경(전/후 비교)](./images/chmod.png)
     13. Docker 버전 확인 결과 기록![Docker 버전 확인 결과 기록](./images/docker_version.png)
-    14. Docker 데몬 동작 여부 확인 결과![Docker 데몬 동작 여부 확인 결과](./images/docker_info.png)
+    14. Docker 데몬 동작 여부 확인 결과(부분)![Docker 데몬 동작 여부 확인 결과](./images/docker_info.png)
     15. 이미지 다운로드 목록 확인![이미지 다운로드 목록 확인](./images/docker_image.png)
     16. 컨테이너: 실행/중지/목록 확인]![컨테이너: 실행/중지/목록 확인](./images/docker_ps.png)
-    17. 운영: 로그 확인![운영: 로그 확인](./images/docker_logs.png)
+    17. 운영: 로그 확인(부분)![운영: 로그 확인](./images/docker_logs.png)
     18. 운영: 리소스 확인![운영: 리소스 확인 ](./images/docker_stats.png)
     19. hello-world 실행, 컨테이너: 실행/중지/목록 확인![hello-world 실행, 컨테이너: 실행/중지/목록 확인](./images/docekr_helloworld.png)
-    20. ![컨테이너 종료/유지(attach/exec 등)의 차이 정리]
-    21. 웹 서버 베이스 이미지 활용(NGINX) + 정적 콘텐츠 교체![웹 서버 베이스 이미지 활용(NGINX) + 정적 콘텐츠 교체]
+    20. 컨테이너 종료/유지(attach/exec 등)의 차이 정리
+    21. 웹 서버 베이스 이미지 활용(NGINX) + 정적 콘텐츠 교체
     22. 내가 적용한 커스텀 포인트 각각의 목적(간단 요약)![내가 적용한 커스텀 포인트 각각의 목적(간단 요약)](./images/dockerfile.png)
     23. 빌드/실행 명령 + 핵심 결과![빌드/실행 명령 + 핵심 결과](./images/docker_build.png)
     24. 빌드/실행 명령 + 핵심 결과2![빌드/실행 명령 + 핵심 결과2](./images/run_mynginx.png)
