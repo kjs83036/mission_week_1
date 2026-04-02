@@ -95,8 +95,10 @@
     32. 컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명![컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명](./images/docker_volume_disconnect.png)
     33. 컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명![컨테이너 삭제 전/후로 데이터를 확인하여 데이터가 유지됨을 증명](./images/docker_volume_reconnect.png)
     34. 기술 문서에 생성/연결/검증 절차(명령+출력)를 포함![기술 문서에 생성/연결/검증 절차(명령+출력)를 포함](./images/docker_volume_chang_log.png)
-    35. ![](./images/.png)
-    36. ![](./images/.png)
+    35. 바인드 마운트: 실행 명령![호스트 변경 전/후 비교](./images/docker_bindmount_command.png)
+    36. 호스트 변경 전/후 비교1![호스트 변경 전/후 비교1](./images/docker_bindmount_before.png)
+    37. 호스트 변경 전/후 비교2![호스트 변경 전/후 비교2](./images/docker_bindmount_change.png)
+    38. 호스트 변경 전/후 비교3![호스트 변경 전/후 비교3](./images/docker_bindmount_after.png)
 
        
 
