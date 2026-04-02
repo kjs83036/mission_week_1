@@ -80,7 +80,7 @@
     23. [빌드/실행 명령 + 핵심 결과](./images/docker_build.png)
     24. [빌드/실행 명령 + 핵심 결과2](./images/run_mynginx.png)
     25. [빌드/실행 명령 + 핵심 결과3](./images/change_static_content_and_port.png)
-    26. [브라우저 접속 화면]](./images/originhome.png)
+    26. [브라우저 접속 화면](./images/originhome.png)
 
         
     27. [](./images/,ong)
