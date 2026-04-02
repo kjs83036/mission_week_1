@@ -56,7 +56,7 @@
 
     17. 2.9 Git 설정 및 Github 연동
         - [ ] Git 사용자 정보/기본 브랜치 설정을 완료하고 git config --list 결과를 기록
-        - [ ] GitHub 로그인 및 저장소 연동을 완료하고, 연동 증거(스크린샷 등)를 첨부한
+        - [ ] GitHub 로그인 및 저장소 연동을 완료하고, 연동 증거(스크린샷 등)를 첨부
 
 
 
@@ -99,6 +99,8 @@
     36. 호스트 변경 전/후 비교1![호스트 변경 전/후 비교1](./images/docker_bindmount_before.png)
     37. 호스트 변경 전/후 비교2![호스트 변경 전/후 비교2](./images/docker_bindmount_change.png)
     38. 호스트 변경 전/후 비교3![호스트 변경 전/후 비교3](./images/docker_bindmount_after.png)
+    39. Git 사용자 정보/기본 브랜치 설정을 완료하고 git config --list 결과를 기록![Git 사용자 정보/기본 브랜치 설정을 완료하고 git config --list 결과를 기록](./images/git_config.png)
+    40. GitHub 로그인 및 저장소 연동을 완료하고, 연동 증거(스크린샷 등)를 첨부![GitHub 로그인 및 저장소 연동을 완료하고, 연동 증거(스크린샷 등)를 첨부](./images/vscode_github.png)
 
        
 
